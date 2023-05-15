@@ -1,0 +1,18 @@
+{
+  "name": "elytra",
+  "version": "1.0.0",
+  "description": "Passwordless Authentation system using QR codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dev Abhiram Sangam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jwt-simple": "^0.5.6",
+    "mongoose": "^7.1.1",
+    "qrcode": "^1.5.3"
+  }
+}
